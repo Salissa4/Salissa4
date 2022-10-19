@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋  Welcome! 👋
 
-<!--
-**Salissa4/Salissa4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges">
+<img src="https://komarev.com/ghpvc/?username=Salissa4&style=flat-square&color=blue" alt=""/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning web development via UTAustin 
+- 📫 How to reach me:
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/salissah/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+- ⚡ Fun fact: After 10+ years in the luxury retail industry I am pivoting careers!
