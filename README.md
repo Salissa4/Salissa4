@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 I’m currently working on building a MERN application to support women
-- 💻 Learning: React, MERN, Graph QL next up: Python
+- 💻 Learning: Python
 - 📚 Reading: Cracking the Coding Interview, The Four Agreements
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
 - <a href="https://salissa4.github.io/Salissa/">🖥️ Portfolio </a>
