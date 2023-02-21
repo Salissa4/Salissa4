@@ -1,7 +1,7 @@
 ### Welcome 
 
 
-- 👩‍💻 I’m currently working on building a MERN application to support women
+- 👩‍💻 I’m currently working on building a full stack application to support women
 - 💻 Learning: Python
 - 📚 Reading: Cracking the Coding Interview, The Four Agreements
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
