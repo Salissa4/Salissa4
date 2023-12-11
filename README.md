@@ -2,9 +2,9 @@
 
 
 - 👩‍💻 I’m currently working on building a full stack application to support women
-- 💻 Learning: Python, Java
-- 🎓 Fall 2023 starting Master of Computer Science with A.I specialization at SMU Lyle School of Engineering 
-- 📚 Reading: Cracking the Coding Interview, Keeping the Love You Find
+- 💻 Learning: Machine Learning in Python
+- 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering 
+- 📚 Reading: Cracking the Coding Interview
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
 - <a href="https://salissa4.github.io/Salissa/">🖥️ Portfolio </a>
 - 📧 Salissa4@gmail.com
