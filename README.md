@@ -2,11 +2,10 @@
 
 
 - 👩‍💻 I’m currently working on building a full stack application to support women
-- 💻 Learning: Computer Architecture, A.I
+- 💻 Learning: Maching Learning Python, File Org and Database Mgmt
 - 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering 
 - 📚 Reading: My class textbooks 😂
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
-- <a href="https://salissa4.github.io/Salissa/">🖥️ Portfolio </a>
 - 📧 Salissa4@gmail.com
 - 📍 Houston, TX
 
