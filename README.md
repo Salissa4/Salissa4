@@ -7,7 +7,6 @@
 - 📚 Reading: My class textbooks 😂
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
 - 📧 Salissa4@gmail.com
-- 📍 Houston, TX
 
 
 -----------
