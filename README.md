@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 I’m currently working on building a full stack application to support women
-- 💻 Learning: Maching Learning Python, File Org and Database Mgmt
+- 💻 Learning: Neural Netorks, Intro to Data Mining, Microsoft Azure
 - 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering 
 - 📚 Reading: My class textbooks 😂
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
