@@ -3,7 +3,8 @@
 
 - 👩‍💻 I’m currently working on building a full stack application to support women
 - 💻 Learning: Computer Security, Networks & Distributed Sytems, just signed up to learn C++
-- 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering 
+- 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering
+- 📜 Certified Scrum Master
 - 📚 Reading: My class textbooks 😂
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
 - 📧 Salissa4@gmail.com
