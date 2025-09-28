@@ -2,7 +2,7 @@
 
 
 - 👩‍💻 I’m currently working on building a full stack application to support women
-- 💻 Learning: Cloud Computing, Quantum Computing
+- 💻 Learning: Computer Security, Networks & Distributed Sytems, just signed up to learn C++
 - 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering 
 - 📚 Reading: My class textbooks 😂
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
