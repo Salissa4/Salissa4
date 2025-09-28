@@ -1,7 +1,7 @@
 ### Welcome 
 
 
-- 👩‍💻 I’m currently working on building a full stack application to support women
+- 👩‍💻 I’m currently working on project for a non profit
 - 💻 Learning: Computer Security, Networks & Distributed Sytems, just signed up to learn C++
 - 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering
 - 📜 Certified Scrum Master
