@@ -2,10 +2,10 @@
 
 
 - 👩‍💻 I’m currently working on project for a non profit
-- 💻 Learning: Computer Security, Networks & Distributed Sytems, just signed up to learn C++
-- 🎓 Pursuing Master of Computer Science with A.I specialization at SMU Lyle School of Engineering
+- 💻 Learning: C++
+- 🎓 Completed Master of Computer Science with A.I specialization at SMU Lyle School of Engineering
 - 📜 Certified Scrum Master
-- 📚 Reading: My class textbooks 😂
+- 📚 Reading: Open to suggestions 
 - I 🤍 : 🦄 Unicorns ☕ Starbucks  🐕‍🦺 Lenox ✈️ Travel
 - 📧 Salissa4@gmail.com
 
